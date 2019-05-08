@@ -1,2 +1,6 @@
 Šis ir tikai feature/99999.
-Papildu teksts 333.
+<<<<<<< HEAD
+Papildu teksts.
+=======
+Papildu teksts.
+>>>>>>> 640e1ae46359f05637c7ed35de4112a00272b62b
