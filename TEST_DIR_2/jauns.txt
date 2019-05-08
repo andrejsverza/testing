@@ -1,2 +1,10 @@
 Šis ir tikai feature/99999.
+<<<<<<< HEAD
 Papildu teksts.
+=======
+<<<<<<< HEAD
+Papildu teksts.
+=======
+Papildu teksts.
+>>>>>>> 640e1ae46359f05637c7ed35de4112a00272b62b
+>>>>>>> bc817d7ac9a2d17f48d4ee8f40267b8038956fc6
