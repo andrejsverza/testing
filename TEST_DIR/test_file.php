@@ -1,3 +1,5 @@
 <?php
 
+// koments
+
 phpinfo();
